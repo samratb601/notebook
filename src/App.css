@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(20deg, rgb(155, 155, 204), rgb(155, 7, 155), rgb(210, 10, 44)) no-repeat;
+  background-size: cover;
+  font-family: 'Hind Siliguri', sans-serif;
+
+}
+
+.App {
+  text-align: center;
+  align-content: center;
+  
+
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.addItems {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+/* .addItems .textbox{
+  position: absolute;
+} */
+
+
+.textbox,
+input {
+  padding: 8px 50px 8px 10px;
+  line-height: 30px;
+  border: none;
+  outline: none;
+  border-radius: 3px;
+}
+
+.showItems {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 3px ;
+  background-color: rgb(215, 225, 225);
+  border-radius: 3px;
+  
+}
+
+i {
+  cursor: pointer;
+}
+
+.showItems .item {
+  min-height: 35px;
+  text-align: left;
+  /* font-family: ; */
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.title{
+  font-size: 17px;
+  color: #4e4f51;
+  text-transform: capitalize;
+}
+.desc{
+color: #616265;
+}
