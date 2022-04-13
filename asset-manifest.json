@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//samratb601.github.io/notebook/static/css/main.8f4d6d0c.css",
-    "main.js": "//samratb601.github.io/notebook/static/js/main.c31d0563.js",
-    "static/js/787.8ceb965d.chunk.js": "//samratb601.github.io/notebook/static/js/787.8ceb965d.chunk.js",
-    "static/media/buddy-13.gif": "//samratb601.github.io/notebook/static/media/buddy-13.d9c3db702c3e664d9e93.gif",
-    "index.html": "//samratb601.github.io/notebook/index.html",
-    "main.8f4d6d0c.css.map": "//samratb601.github.io/notebook/static/css/main.8f4d6d0c.css.map",
-    "main.c31d0563.js.map": "//samratb601.github.io/notebook/static/js/main.c31d0563.js.map",
-    "787.8ceb965d.chunk.js.map": "//samratb601.github.io/notebook/static/js/787.8ceb965d.chunk.js.map"
+    "main.css": "/notebook/static/css/main.97349449.css",
+    "main.js": "/notebook/static/js/main.dcbd9c06.js",
+    "static/js/787.8ceb965d.chunk.js": "/notebook/static/js/787.8ceb965d.chunk.js",
+    "static/media/buddy-13.gif": "/notebook/static/media/buddy-13.d9c3db702c3e664d9e93.gif",
+    "index.html": "/notebook/index.html",
+    "main.97349449.css.map": "/notebook/static/css/main.97349449.css.map",
+    "main.dcbd9c06.js.map": "/notebook/static/js/main.dcbd9c06.js.map",
+    "787.8ceb965d.chunk.js.map": "/notebook/static/js/787.8ceb965d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8f4d6d0c.css",
-    "static/js/main.c31d0563.js"
+    "static/css/main.97349449.css",
+    "static/js/main.dcbd9c06.js"
   ]
 }
